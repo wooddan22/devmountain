@@ -1,2 +1,2 @@
-var journal = ["I have a lot of questions."];
+var journal = ["I have a lot of questions.", "This sucks"];
 
